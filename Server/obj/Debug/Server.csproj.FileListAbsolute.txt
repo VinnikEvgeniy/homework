@@ -1,0 +1,7 @@
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\bin\Debug\Server.exe.config
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\bin\Debug\Server.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\bin\Debug\Server.pdb
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\obj\Debug\Server.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Server\obj\Debug\Server.pdb

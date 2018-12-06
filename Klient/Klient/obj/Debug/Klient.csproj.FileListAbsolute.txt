@@ -1,0 +1,13 @@
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Klient.exe.config
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.Form1.resources
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.Properties.Resources.resources
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Klient.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Klient.pdb
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Database.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Server.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Database.pdb
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\bin\Debug\Server.pdb
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.exe
+D:\Lab_Work\lab po Ksz\3Arhitektura\Klient\Klient\obj\Debug\Klient.pdb
